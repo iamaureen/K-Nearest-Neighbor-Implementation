@@ -1,3 +1,5 @@
+Implemented K-nearest neighbour with the following three datasets in Matlab:
+
 Human Activity Datasets
 -----------------------
 Number of classes: 6
